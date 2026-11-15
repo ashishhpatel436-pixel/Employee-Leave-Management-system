@@ -1,0 +1,3 @@
+EmployeeID,Name,Department,Casual,Sick,Earned
+E101,Amit,Software Engineering,0,0,0
+E201,Vikram Rao,Operations,50,40,60

@@ -1,0 +1,5 @@
+# Employee Leave Management System (PS No. 72)
+# Core application runs on standard Python 3 with ZERO external dependencies.
+
+# Optional development tools
+Pillow>=10.0.0
